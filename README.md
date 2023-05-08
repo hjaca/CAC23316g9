@@ -9,7 +9,9 @@ Tu web para encontrar todo lo que queres saber sobre cocina estilo argentino
 
 # Miembros
 Luciana - @gmail.com
+
 Jeronimo - @gmail.com
+
 Gregorio Jaca - nlvau101@gmail.com
 
 Requerimientos:
@@ -31,3 +33,8 @@ Uso del codigo en GIT (Win)
 6. Instalar dependencias: pip install -r requirements.txt
 
 7. Ejecutar el backend: python manage.py runserver
+
+# Apps
+* Productos
+* Usuarios
+
